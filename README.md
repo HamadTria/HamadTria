@@ -1,8 +1,7 @@
 ## 🚀 About Me
 Hi, I'm Hamad, a Data Science student with a passion for ML/AI. I love working on innovative projects and leveraging technology to solve problems.
 
-## 🛠️ Skills
-### Languages:
+## 🛠️ Languages
 | Python3 | C | C++ | JS | R |
 |----------|----------|----------|----------|-----|
 |  <img src="assets/python-original.svg" title="Python"  alt="Python" width="55" height="55" style="pointer-events: none;"/> |  <img src="assets/c-original.svg" title="C"  alt="C" width="55" height="55" style="pointer-events: none;"/> | <img src="assets/cpp-original.svg" title="C"  alt="C" width="55" height="55" style="pointer-events: none;"/> | <img src="assets/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55" style="pointer-events: none;"/> |  <img src="assets/r-original.svg" title="R" alt="R" width="55" height="55" style="pointer-events: none;"/>|
