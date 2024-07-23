@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hamad </h1>
-
 ## 🚀 About Me
-I'm a Data Science student with a passion for ML/AI. I love working on innovative projects and leveraging technology to solve problems.
+Hi, I'm Hamad, a Data Science student with a passion for ML/AI. I love working on innovative projects and leveraging technology to solve problems.
 
 ## 🛠️ Skills
 ### Languages:
