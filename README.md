@@ -1,5 +1,5 @@
 ## 🚀 About Me
-Hi, I'm Hamad, a Data Science student with a passion for ML/AI. I love working on innovative projects and leveraging technology to solve problems.
+Hi, I'm Hamad, a data science student with a passion for ML/AI. I love working on innovative projects and leveraging technology to solve problems.
 
 ## 🛠️ Languages
 | Python3 | C | C++ | JS | R |
