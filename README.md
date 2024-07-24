@@ -13,10 +13,10 @@ Hi, I'm Hamad, a data science student with a passion for ML/AI. I love working o
 - **[MCTS](https://github.com/HamadTria/MCTS):** Connect Four and Tic-Tac-Toe games with AI opponents using the Monte Carlo Tree Search (MCTS) algorithm, built with Pygame.
 
 ## 🎓 Education
-- **[University of Bordeaux](https://www.u-bordeaux.fr)**
-  - Data Science
 - **[University of California, Los Angeles](https://www.ucla.edu)**
   - Statistics and Data Science
+- **[University of Bordeaux](https://www.u-bordeaux.fr)**
+  - Data Science
 
 ## 📫 Contact Me
 - **LinkedIn:** [Hamad Tria](https://www.linkedin.com/in/hamadtria/)
